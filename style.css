@@ -30,8 +30,9 @@
     list-style: none;
 }  
 
-* {
+.technicalSkills * {
     box-sizing: border-box;
+    border-radius:20px;
   }
   
   body {
@@ -80,3 +81,7 @@
       margin-bottom: 20px;
     }
   }
+img{
+    border-radius:50%;
+    border-style:none;
+}
