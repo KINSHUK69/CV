@@ -1,0 +1,20 @@
+<table>
+                <tr>
+                    <td>
+                        <img src="Kinshuk.jpg" alt="Kinshuk Dewari's image" />
+                    </td>
+                    <td>
+                        <h1 style="font-size:3vw ;">Kinshuk Dewari</h1>
+                    <! all the headings are done through a h tag and a number followed by it i.e., from 1-6 h1 being the largest heading and then going down the size from ther onwards and h6 boing the smallest>
+                    <p style="font-size:1.5vw ;">
+                        <em>An Engineering Student</em>
+                        <strong><br>
+                        at
+                        <a href="https://www.gehu.ac.in/">Graphic Era Hill University</a>
+                        <br>Dehradun.
+                        </strong>
+                    </p>
+                    <! p for the paragraph  | em to put emphasis on the text enclosed in it works as italic in simple words can also use i | strong for bold can also use b >
+                    </td>
+                </tr>
+            </table>
